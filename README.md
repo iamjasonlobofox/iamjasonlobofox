@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jason Lobo, currently a FOX intern in Brodcast Engineering for Summer 2024!
+- 👋 Hi, I’m Jason Lobo, currently a FOX intern in Brodcast Engineering for Fall 2024!
 - 👀 I’m interested in Automation, Cloud, & AI.
 - 🌱 I’m currently learning Python automation, IP management and AWS 
 - 📫 How to reach me jason.lobo@fox.com
